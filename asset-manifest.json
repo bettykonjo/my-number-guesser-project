@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-number-guesser-project/static/css/main.9fe8f631.css",
+    "main.js": "/my-number-guesser-project/static/js/main.77882bce.js",
+    "index.html": "/my-number-guesser-project/index.html",
+    "main.9fe8f631.css.map": "/my-number-guesser-project/static/css/main.9fe8f631.css.map",
+    "main.77882bce.js.map": "/my-number-guesser-project/static/js/main.77882bce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe8f631.css",
+    "static/js/main.77882bce.js"
+  ]
+}
