@@ -1,0 +1,13 @@
+body{
+    border: 1px solid black;
+}
+button  {
+    margin-right:2px;
+    padding: 10px;
+    flex-wrap: nowrap;
+    background-color:#FAF9F6;	
+  }
+  /* p{
+      color:#FAF9F6 ;
+  } */
+
